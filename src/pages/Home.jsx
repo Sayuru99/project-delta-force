@@ -8,6 +8,7 @@ const Home = () => (
     <p className="text-lg mb-6">
       This is a sample website built using Vite, React, and Tailwind.
     </p>
+    <h1>Test Tharusha</h1>
     <LazyLoadImage
       alt="Sample Image"
       src="https://bpn.designsfrontier.com/wp-content/uploads/2024/11/news.png"
