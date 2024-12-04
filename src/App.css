@@ -1,0 +1,19 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+header,
+footer {
+  background-color: #282c34;
+  color: white;
+  padding: 10px;
+}
+
+.icon-container {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
